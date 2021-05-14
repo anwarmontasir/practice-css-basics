@@ -44,7 +44,7 @@ h1 {
     /* 7. apply a linear gradient to the background
           - #41587b at the top
           - #11284b at the bottom */
-    background-color: linear-gradient(#41587b, #11284b);
+    background: linear-gradient(#41587b, #11284b);
 }
 
 #quote {
