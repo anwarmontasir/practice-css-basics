@@ -1,7 +1,7 @@
 * {box-sizing: border-box;}
 
 body {
-    background: #e0e4e9;
+    background-color: #e0e4e9;
 
     /* 2. change the body text to Lora 400.
           don't forget to add the font to your HTML! */
@@ -59,7 +59,7 @@ blockquote {
     padding: 1rem;
     width: 70%;
     margin: 0 auto;
-    background: rgba(0,23,58,.8);
+    background-color: rgba(0,23,58,.8);
     color: #fff;
     font-size: 1.5rem;
 } 

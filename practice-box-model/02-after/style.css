@@ -18,7 +18,7 @@
     margin: 5vh auto;
     width: 90%;
     height: 90vh;
-    background: lightsteelblue;
+    background-color: lightsteelblue;
     
 }
 
@@ -44,5 +44,5 @@ img {
     padding: 100px 50px;
     border: 25px solid lightsalmon;
     margin: 10px 0;
-    background: floralwhite;
+    background-color: floralwhite;
 }

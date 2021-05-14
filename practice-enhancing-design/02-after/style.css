@@ -1,7 +1,7 @@
 * {box-sizing: border-box;}
 
 body {
-    background: #e0e4e9;
+    background-color: #e0e4e9;
 
     /* 2. change the body text to Lora 400.
           don't forget to add the font to your HTML! */
@@ -44,7 +44,7 @@ h1 {
     /* 7. apply a linear gradient to the background
           - #41587b at the top
           - #11284b at the bottom */
-    background: linear-gradient(#41587b, #11284b);
+    background-color: linear-gradient(#41587b, #11284b);
 }
 
 #quote {
@@ -63,7 +63,7 @@ blockquote {
     padding: 1rem;
     width: 70%;
     margin: 0 auto;
-    background: rgba(0,23,58,.8);
+    background-color: rgba(0,23,58,.8);
     color: #fff;
     font-size: 1.5rem;
 } 
