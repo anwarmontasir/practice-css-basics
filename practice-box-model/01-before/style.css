@@ -1,0 +1,31 @@
+/* note: matching two 600px boxes with different 
+   padding and border sizes might involve some 
+   complicated math...unless you can think of a
+   declaration to make matching sizes easier! */
+
+#box {
+   /* your #box div should
+       - have 25px of padding
+       - have a background colored lightsteelblue
+       - be 90% of the width of the viewport
+       - be 90% of the height of the viewport
+       - be centered horizontally on the screen
+       - as a bonus, try centering vertically as well
+         (this will take some creativity) */
+}
+
+img {
+    /* your img should
+       - be 600px wide
+       - have a 10px solid border colored aliceblue */
+}
+
+#text {
+    /* your #text div should
+       - be 600px wide
+       - have 100px padding on the top and bottom,
+         and 50px padding on the left and right
+       - have a 25px solid border colored lightsalmon
+       - have 10px of top and bottom margin
+       - have a background colored floralwhite */
+}
