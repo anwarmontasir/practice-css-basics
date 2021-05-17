@@ -108,7 +108,7 @@ main, footer {
       b. prevent the h2 element from wrapping next to the figure element
       c. change the display type of the nav li elements to place them horizontally, not vertically */
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
     figure {
         float: left;
         width: 360px;
