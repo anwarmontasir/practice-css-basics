@@ -93,6 +93,6 @@ cite {
             of the parent element’s text. 
             
             In both cases, don’t refer to the root font size */
-    margin: 1rem;
+    margin: 1em;
     font-size: .75em;
 }
