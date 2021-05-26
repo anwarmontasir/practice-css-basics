@@ -89,7 +89,7 @@ main, footer {
 /* 2. when the page is printed,
 
       a. hide the nav element when the page is printed.
-      b. prevent the figure element from growing too large */
+      b. set the width of the figure element to 50%, and position it to the left so text wraps around it */
 
 @media print {
     nav {
@@ -102,7 +102,7 @@ main, footer {
     }
 }      
 
-/* 3. on a large screen,
+/* 3. on a large screen (768px or wider),
       
       a. set the width of the figure element to 360px, and position it to the left so text wraps around it
       b. prevent the h2 element from wrapping next to the figure element
