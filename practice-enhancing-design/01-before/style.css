@@ -20,7 +20,7 @@ main {
           - 4 pixels vertical offset
           - 4 pixels blur radius
           - 2 pixels spread radius
-          - use the color rgba(0,23,58,.3) */
+          - use the color rgba(0,23,85,.3) */
     
 }
 
@@ -37,8 +37,8 @@ h1 {
     /* 6. transform the text so every letter is capitalized */
      
     /* 7. apply a linear gradient to the background
-          - #41587b at the top
-          - #11284b at the bottom */
+          - #41589b at the top
+          - #11286b at the bottom */
 
 }
 
@@ -59,7 +59,7 @@ blockquote {
     padding: 1rem;
     width: 70%;
     margin: 0 auto;
-    background-color: rgba(0,23,58,.8);
+    background-color: rgba(0,23,85,.8);
     color: #fff;
     font-size: 1.5rem;
 } 
